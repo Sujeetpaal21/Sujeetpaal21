@@ -30,3 +30,4 @@
 
 | <a href="https://github.com/Sujeetpaal21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujeetpaal21&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="Sujeet paal git hub stats" /></a> | <a href="https://github.com/Sujeetpaal21"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeetpaal21&layout=compact&theme=vision-friendly-dark" /></a> |
 | ------------- | ------------- |
+
