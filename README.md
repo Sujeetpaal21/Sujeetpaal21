@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently studying in [NIT Jamshedpur](https://www.nitjsr.ac.in/)
 
-- 🌱 I’m data analysis **ThinkCongnent**
+- 🌱 I’m data analyst at **ThinkCongnent**
 
 - 📫 How to reach me **Sujeetpal0125@gamil.com**
 
