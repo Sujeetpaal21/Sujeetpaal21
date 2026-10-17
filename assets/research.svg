@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360">
+  <rect width="1600" height="360" rx="20" fill="#190B12"/>
+  <rect x="45" y="40" width="4" height="280" fill="#701A3D"/>
+  <text x="70" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#E5B5C7" letter-spacing="2">RESEARCH</text>
+  <text x="70" y="70" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#F8F0F3">• AI-Powered Fraud Detection: Leveraging Machine Learning to Combat Financial Crimes — 2025</text><text x="70" y="122" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#F8F0F3">• Towards a More Secure Two-Tier ATM System: Proposed Enhancements — 2025</text>
+</svg>

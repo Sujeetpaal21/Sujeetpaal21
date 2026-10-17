@@ -1,0 +1,4 @@
+Rename your generated banner image to: sujeet-banner.png
+Then put it inside the assets folder.
+Recommended: PNG or JPG, wide landscape, around 1600x500.
+If you do not add it, the README will show a broken image at the top; you can temporarily rename assets/sujeet-banner-fallback.svg to use it instead.

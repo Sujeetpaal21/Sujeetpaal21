@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360">
+  <rect width="1600" height="360" rx="20" fill="#190B12"/>
+  <rect x="45" y="40" width="4" height="280" fill="#701A3D"/>
+  <text x="70" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#E5B5C7" letter-spacing="2">ABOUT SUJEET</text>
+  <text x="70" y="75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Data Science Specialist at Soul AI</text><text x="70" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Building AI agents, agentic workflows and RAG-based assistants</text><text x="70" y="191" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Machine learning, data analysis and AI model evaluation</text><text x="850" y="75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• MCA in Computer Science — NIT Jamshedpur</text><text x="850" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Python, SQL, Pandas, NumPy, Power BI, Tableau</text><text x="850" y="191" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• I enjoy turning complex AI ideas into practical solutions</text>
+</svg>

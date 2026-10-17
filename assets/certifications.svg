@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360">
+  <rect width="1600" height="360" rx="20" fill="#190B12"/>
+  <rect x="45" y="40" width="4" height="280" fill="#701A3D"/>
+  <text x="70" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#E5B5C7" letter-spacing="2">CERTIFICATIONS & TRAINING</text>
+  <text x="70" y="75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Google Analytics Individual Qualification</text><text x="70" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Web Development Certification</text><text x="70" y="191" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Problem Solving — HackerRank</text><text x="850" y="75" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• SQL Certification — HackerRank</text><text x="850" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• MySQL (Basic)</text><text x="850" y="191" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#F8F0F3">• Full Stack Development Virtual Internship — Teachnook</text>
+</svg>
