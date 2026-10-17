@@ -102,5 +102,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujeetpaal21&bg_color=190B12&color=E5B5C7&line=701A3D&point=F8F0F3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sujeetpaal21/Sujeetpaal21/output/dist/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 <img src="assets/footer-signature.svg" width="100%" alt="Sujeet Kumar Pal — Building AI systems that turn data into decisions.">
