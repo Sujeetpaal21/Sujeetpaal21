@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sujeetpaal21.github.io/Sujeet-3D-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio"></a>
+  <a href="https://sujeet-kumar-pal.netlify.app/#home"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/sujeet-kumar-pal-979b9b222/"><img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>
   <a href="mailto:sujeetkumarpal2000@gmail.com"><img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email"></a>
   <a href="https://github.com/Sujeetpaal21"><img src="https://img.shields.io/badge/GitHub-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub"></a>
